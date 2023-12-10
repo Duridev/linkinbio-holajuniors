@@ -1,0 +1,15 @@
+{
+  "name": "linkinbio-holajuniors",
+  "version": "1.0.0",
+  "description": "Desafio CREA UN LISTADO DE ENLACES ESTILO \"LINK IN BIO\" Hola Juniors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailDev": "npx tailwindcss -i ./src/css/tailwind.css -o ./src/css/style.css --watch"
+  },
+  "author": "Duridev",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
